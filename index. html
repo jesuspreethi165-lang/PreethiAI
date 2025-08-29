@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cyber Security - Wiki Style</title>
+</head>
+<body style="font-family: Arial; margin:20px;">
+
+  <h1>Cyber Security</h1>
+  <hr>
+
+  <h2>Introduction</h2>
+  <p>
+    Cyber Security is the practice of protecting systems, networks, and programs 
+    from digital attacks. These cyberattacks are usually aimed at accessing, 
+    changing, or destroying sensitive information, interrupting business processes, 
+    or stealing money.
+  </p>
+
+  <h2>Applications</h2>
+  <ul>
+    <li>Network Security</li>
+    <li>Cloud Security</li>
+    <li>Application Security</li>
+    <li>Data Protection and Privacy</li>
+    <li>Incident Response and Recovery</li>
+  </ul>
+
+  <h2>Future</h2>
+  <p>
+    With the rise of AI, IoT, and digital transformation, Cyber Security will become 
+    even more critical. Advanced threat detection, ethical hacking, and stronger 
+    encryption will shape the future of cyber defense.
+  </p>
+
+</body>
+</html>
